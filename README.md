@@ -17,4 +17,5 @@ como lo podemos ver en la siguiente imagen, no se ve la estructura de las carpet
 
   
 
-muchas gracias por su atención prestada. 
+ 
+NOTA: tuve que subir el proyecto como rar por el motivo de que git no me dejo subir ma de 100 archivos, asi que tuve que comprimir el archivo para poder subirlo, muchas gracias por su atención prestada.
